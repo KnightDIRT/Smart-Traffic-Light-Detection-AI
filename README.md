@@ -1,8 +1,8 @@
 # Smart Traffic Light Detection System Project
 
 ## How to Run?
-The main result is from the code [here](ProjectTestVideo.py) using the data from this [folder](For Demonstration).
-The example output is in the same fp;der [here](For Demonstration/TestVideo_Output.mp4).
+The main result is from the code [here](ProjectTestVideo.py) using the data from this [folder](For_Demonstration).
+The example output is in the same fp;der [here](For_Demonstration/TestVideo_Output.mp4).
 
 ## Which code is which?
 Training the final YOLO model is this [code](Project.ipynb).
