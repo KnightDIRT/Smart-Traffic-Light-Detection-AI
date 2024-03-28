@@ -1,0 +1,34 @@
+<annotation>
+  <folder>Downloads</folder>
+  <filename>48666.png</filename>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Yellow</name>
+    <pose>Unspecified</pose>
+    <occluded>False</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>568.3836971875</xmin>
+      <ymin>278.7760944162</ymin>
+      <xmax>576.2022989091</xmax>
+      <ymax>286.275569537</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Yellow</name>
+    <pose>Unspecified</pose>
+    <occluded>False</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>604.9236929885</xmin>
+      <ymin>278.4569678154</ymin>
+      <xmax>613.2209846114</xmax>
+      <ymax>286.5946961378</ymax>
+    </bndbox>
+  </object>
+</annotation>

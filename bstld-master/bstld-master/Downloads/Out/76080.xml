@@ -1,0 +1,34 @@
+<annotation>
+  <folder>Out</folder>
+  <filename>76080.png</filename>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>off</name>
+    <pose>Unspecified</pose>
+    <occluded>False</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>636.1534165281</xmin>
+      <ymin>310.2156218721</ymin>
+      <xmax>642.8892559566</xmax>
+      <ymax>319.19674111</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>off</name>
+    <pose>Unspecified</pose>
+    <occluded>False</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>621.5590977664</xmin>
+      <ymin>308.8684539864</ymin>
+      <xmax>626.7232413282</xmax>
+      <ymax>319.6457970719</ymax>
+    </bndbox>
+  </object>
+</annotation>

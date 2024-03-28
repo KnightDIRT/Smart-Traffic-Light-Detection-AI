@@ -1,0 +1,34 @@
+<annotation>
+  <folder>Out</folder>
+  <filename>508568.png</filename>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Red</name>
+    <pose>Unspecified</pose>
+    <occluded>False</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>710.3305426645</xmin>
+      <ymin>152.9811408917</ymin>
+      <xmax>728.9663650833</xmax>
+      <ymax>193.3961774625</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>RedLeft</name>
+    <pose>Unspecified</pose>
+    <occluded>False</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>573.1439463046</xmin>
+      <ymin>148.3783172822</ymin>
+      <xmax>589.9835448758</xmax>
+      <ymax>187.2216579864</ymax>
+    </bndbox>
+  </object>
+</annotation>

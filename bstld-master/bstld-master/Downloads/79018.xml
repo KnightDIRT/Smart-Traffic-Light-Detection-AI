@@ -1,0 +1,34 @@
+<annotation>
+  <folder>Downloads</folder>
+  <filename>79018.png</filename>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Red</name>
+    <pose>Unspecified</pose>
+    <occluded>False</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>836.2634880253</xmin>
+      <ymin>263.8765027563</ymin>
+      <xmax>841.9082699967</xmax>
+      <ymax>278.5220786075</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Red</name>
+    <pose>Unspecified</pose>
+    <occluded>False</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>670.1932358664</xmin>
+      <ymin>248.9336611534</ymin>
+      <xmax>677.6173426855</xmax>
+      <ymax>265.4478328735</ymax>
+    </bndbox>
+  </object>
+</annotation>

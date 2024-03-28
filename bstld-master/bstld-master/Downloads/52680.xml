@@ -1,0 +1,34 @@
+<annotation>
+  <folder>Downloads</folder>
+  <filename>52680.png</filename>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>off</name>
+    <pose>Unspecified</pose>
+    <occluded>False</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>599.14836959</xmin>
+      <ymin>288.7435200465</ymin>
+      <xmax>603.0125332029</xmax>
+      <ymax>298.4579949924</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>off</name>
+    <pose>Unspecified</pose>
+    <occluded>False</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>540.9437771368</xmin>
+      <ymin>284.8658399552</ymin>
+      <xmax>545.8826926562</xmax>
+      <ymax>295.7564678061</ymax>
+    </bndbox>
+  </object>
+</annotation>

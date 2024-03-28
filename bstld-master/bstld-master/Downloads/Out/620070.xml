@@ -1,0 +1,22 @@
+<annotation>
+  <folder>Out</folder>
+  <filename>620070.png</filename>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Green</name>
+    <pose>Unspecified</pose>
+    <occluded>False</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>637.3086910646</xmin>
+      <ymin>226.1987604147</ymin>
+      <xmax>646.2771594589</xmax>
+      <ymax>248.0586564572</ymax>
+    </bndbox>
+  </object>
+</annotation>

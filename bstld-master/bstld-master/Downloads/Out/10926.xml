@@ -1,0 +1,34 @@
+<annotation>
+  <folder>Out</folder>
+  <filename>10926.png</filename>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Green</name>
+    <pose>Unspecified</pose>
+    <occluded>False</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>660.8168658062</xmin>
+      <ymin>329.9995776365</ymin>
+      <xmax>668.2250644976</xmax>
+      <ymax>334.8707219816</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Green</name>
+    <pose>Unspecified</pose>
+    <occluded>False</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>618.5333828401</xmin>
+      <ymin>307.0685292608</ymin>
+      <xmax>623.0282006946</xmax>
+      <ymax>318.3712067881</ymax>
+    </bndbox>
+  </object>
+</annotation>
